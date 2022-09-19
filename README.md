@@ -1,3 +1,19 @@
+Covered Key Fetured:
+
+1. Checkbox, 
+2. Box,  
+3. FormControlLabel,  
+4. FormLabel,   
+5. FormGroup,  
+6. FormControl, 
+7. BookmarkIcon, 
+8. BookmarkBorderIcon, 
+9. CheckBox with useState
+
+
+![image](https://user-images.githubusercontent.com/15225177/190960667-a2fabfd5-15c5-4c77-9889-a866ba8bfd60.png)
+
+*************************************************************************************************************************
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
